@@ -5,3 +5,7 @@ This repository contains my solution for the API analysis assignment.
 
 ## Structure
 - `/Content`: Documentation and Python code
+git add .
+git commit -m "Completed API assignment"
+git push
+
