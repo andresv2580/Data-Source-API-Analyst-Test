@@ -31,7 +31,7 @@ This repository contains my solution for the Data Source API Analyst technical a
 
 ### How to Run
 1. **For Google Colab**:
-   - Open `github_api_analysis.ipynb` in Colab
+   - Open `API_Analyst_test.ipynb` in Colab
    - Replace `"your_token_here"` with your GitHub token
    - Execute cells sequentially
 
